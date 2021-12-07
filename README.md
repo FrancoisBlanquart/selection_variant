@@ -1,4 +1,6 @@
-# Code and data for the paper *Selection for infectivity profiles in slow and fast epidemics, and the rise of SARS-CoV-2 variants*
+# Selection for infectivity profiles in slow and fast epidemics
+
+This is the code and data used to investigate the selection for SARS-CoV-2 variants depending on their infectivity profile.
 
 ## Codes
 
