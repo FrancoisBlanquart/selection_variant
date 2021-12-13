@@ -62,7 +62,7 @@ Data underlying technical briefing 17.
 
 ### delta_frequencies_EU.csv
 
-Delta frequencies across EU countries and across dates. These data is available from the ECDC website at https://www.ecdc.europa.eu/en/publications-data/data-virus-variants-covid-19-eueea
+Delta frequencies across EU countries and across dates. These data are available from the ECDC website at https://www.ecdc.europa.eu/en/publications-data/data-virus-variants-covid-19-eueea
 
 ### spatial_variation_EU.csv
 
